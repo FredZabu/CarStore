@@ -21,5 +21,13 @@ button{
 
 .list-container p{
     font-size: 24px;
-    font-weight: 600;
+    
+}
+
+.changer{
+    font-weight: bold;
+}
+
+.tochanger{
+    color: black;
 }
