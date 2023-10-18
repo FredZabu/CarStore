@@ -1,0 +1,21 @@
+.search-container{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 0px;
+}
+
+.search-container form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search-container form label{
+    margin-right: 10px;
+}
+
+.search-container h3{
+    font-size: 24px;
+}

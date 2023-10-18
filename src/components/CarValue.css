@@ -1,0 +1,21 @@
+.carValue-container{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+
+}
+
+.carValue-container div{
+    display: inline-flex;
+    align-items: center;
+
+}
+
+.carValue-container div h3{
+    margin-right: 10px;
+}
+
+.carValue-container div p{
+    font-size: 24px;
+    font-weight: 600;
+}
